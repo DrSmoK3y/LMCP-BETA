@@ -291,7 +291,7 @@ Our dedicated support experts are here to help you deploy, customize, and scale 
 
 -   📧 **Email Support:** support@lmwebdesigners.com
 -   🌐 **Official Website:** [https://lmwebdesigners.com](https://lmwebdesigners.com)
--   🛒 **Store Page:** [Gumroad Store](https://lmdesigners.gumroad.com/l/lm-certificate-publisher-pro)
+-   🛒 **Store Page:** [Gumroad Store](#)
 
 ---
 
