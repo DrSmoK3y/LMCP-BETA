@@ -316,6 +316,6 @@ Copyright © 2026 LM Designers. All Rights Reserved.
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by LM Designers x Team Creativators</strong><br>
+  <strong>Built with ❤️ by [DrSmoK3y](https://github.com/DrSmoK3y/) x [Team Creativators](https://github.com/Creativators)</strong><br>
   <em>Secure. Verifiable. Enterprise-Grade.</em>
 </p>
