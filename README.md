@@ -108,6 +108,8 @@ With this optional extension, you can sell:
 | **Expiry & Validity Monitor** | Set expiration limits with custom warning banners and status rules |
 | **Serial Key Automator** | Auto-generate unique serial keys and document IDs with custom prefixes |
 | **Bulk CSV Importer** | Instantly upload and publish hundreds of records via a simple CSV spreadsheet |
+| **Whitelabel Branding** | Completely hide LM Certificates branding, upload a custom dashboard logo, customize menus, and replace developer credits |
+| **Copy & Content Protection** | Prevent certificate theft by disabling text selection and blocking right-click (context menu) actions on frontend certificate pages |
 | **Native Vector Graphics** | 100% clean Lucide-style inline SVGs across the admin interface. No slow external font icon libraries or CSS bloat |
 | **WP Admin Layout Tuning** | Beautiful `#wpcontent` padding alignments (20px left & right padding) for a consistent, premium container viewport |
 
@@ -199,6 +201,8 @@ Take control of advanced performance, styling, and security features:
 -   **Preloader Animations:** Choose from beautiful CSS spinners or upload your own branded GIF.
 -   **Expiry Rules:** Control whether expired licenses should display custom warning banners or disappear entirely from public views.
 -   **Automation Emails:** Customize professional HTML email notifications sent instantly when credentials are published.
+-   **Whitelabeling Settings:** Fully replace plugin credits with your own branding. Upload a custom admin menu logo, customize plugin titles, hide "Powered by" footprints, and configure tailored styling options for a 100% personalized client hand-off.
+-   **Advanced Copy Protection:** Easily toggle right-click (context-menu) deactivation and disable text/image selection on certificate views to block unauthorized downloads, credential scraping, and visual forgery.
 
 ### 6. License Management
 Track your active licensing tiers, view site allocations, and deactivate sites securely to release licensing slots for development or client handovers.
@@ -258,6 +262,7 @@ Keep your recipients informed instantly. Our system drafts and dispatches respon
 ## 🛡️ Security Features
 
 We prioritize data integrity and database speed:
+-   **Anti-Theft Copy Protection:** Prevents direct certificate scraping and theft by completely disabling right-click context menus, image dragging, and text selection highlights on frontend certificate display pages.
 -   **reCAPTCHA v3 Protection:** Defends public search forms from bot attacks and brute-force inquiries.
 -   **SHA-256 HMAC Signatures:** Verifies database data and prevents local key tampering.
 -   **Strict Nonce Checks:** All administrative commands are tightly protected by WordPress security tokens.
@@ -295,7 +300,7 @@ Our dedicated support experts are here to help you deploy, customize, and scale 
 
 -   📧 **Email Support:** support@lmwebdesigners.com
 -   🌐 **Official Website:** [https://lmwebdesigners.com](https://lmwebdesigners.com)
--   🛒 **Store Page:** [Gumroad Store](#)
+-   🛒 **Store Page:** [Gumroad Store](https://lmdesigners.gumroad.com/l/lm-certificate-publisher-pro)
 
 ---
 
@@ -311,6 +316,6 @@ Copyright © 2026 LM Designers. All Rights Reserved.
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by LM Designers x Team Creativators</strong><br>
+  <strong>Built with ❤️ by LM Designers</strong><br>
   <em>Secure. Verifiable. Enterprise-Grade.</em>
 </p>
