@@ -58,6 +58,8 @@ The absolute power of this plugin lies in its limitless flexibility. Because you
 *   **🩺 Healthcare & Medical Centers:** Issue verifiable test results, immunization logs, professional medical training credentials, and laboratory badges.
 *   **🎓 Elite Academies & Bootcamps:** Publish student diplomas, grade sheets, study transcripts, and masterclass achievements with zero manual work.
 *   **🎟️ Event Organizers & Exhibitions:** Generate VIP entry passes, speaker recognitions, and participation credentials with auto-generated QR check-ins.
+*   **🛡️ Security & Guarding Firms:** Distribute verifiable security guard certifications, weapons permits, and background screening passes.
+*   **💻 Software & SaaS Licensing:** Auto-generate unique alphanumeric license keys alongside PDF certificates for software buyers.
 
 ---
 
@@ -106,6 +108,8 @@ With this optional extension, you can sell:
 | **Expiry & Validity Monitor** | Set expiration limits with custom warning banners and status rules |
 | **Serial Key Automator** | Auto-generate unique serial keys and document IDs with custom prefixes |
 | **Bulk CSV Importer** | Instantly upload and publish hundreds of records via a simple CSV spreadsheet |
+| **Native Vector Graphics** | 100% clean Lucide-style inline SVGs across the admin interface. No slow external font icon libraries or CSS bloat |
+| **WP Admin Layout Tuning** | Beautiful `#wpcontent` padding alignments (20px left & right padding) for a consistent, premium container viewport |
 
 ---
 
@@ -307,6 +311,6 @@ Copyright © 2026 LM Designers. All Rights Reserved.
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by LM Designers</strong><br>
+  <strong>Built with ❤️ by LM Designers x Team Creativators</strong><br>
   <em>Secure. Verifiable. Enterprise-Grade.</em>
 </p>
