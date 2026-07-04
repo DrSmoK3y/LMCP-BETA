@@ -111,7 +111,7 @@ With this optional extension, you can sell:
 | **Whitelabel Branding** | Completely hide LM Certificates branding, upload a custom dashboard logo, customize menus, and replace developer credits |
 | **Copy & Content Protection** | Prevent certificate theft by disabling text selection and blocking right-click (context menu) actions on frontend certificate pages |
 | **Native Vector Graphics** | 100% clean Lucide-style inline SVGs across the admin interface. No slow external font icon libraries or CSS bloat |
-| **WP Admin Layout Tuning** | Beautiful `#wpcontent` padding alignments (20px left & right padding) for a consistent, premium container viewport |
+
 
 ---
 
