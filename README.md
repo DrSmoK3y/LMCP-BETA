@@ -1,4 +1,4 @@
-# 🏆 LM Certificate Publisher Pro
+# 🏆 LM Certificate Publisher Pro (CertifyPress)
 
 > **The ultimate enterprise-grade digital document, credential management, secure verification, and automated licensing system for WordPress.**
 
