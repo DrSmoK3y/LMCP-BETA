@@ -299,7 +299,7 @@ Use in Elementor widgets to pull live certificate data:
 Our dedicated support experts are here to help you deploy, customize, and scale your verification platform:
 
 -   📧 **Email Support:** support@lmwebdesigners.com
--   🌐 **Official Website:** [https://lmwebdesigners.com](https://lmwebdesigners.com)
+-   🌐 **Official Website:** [http://certifypress.site/](http://certifypress.site/)
 -   🛒 **Store Page:** [Gumroad Store](https://lmdesigners.gumroad.com/l/lm-certificate-publisher-pro)
 
 ---
