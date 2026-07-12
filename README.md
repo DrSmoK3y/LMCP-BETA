@@ -1,4 +1,4 @@
-# 🏆 LM Certificate Publisher Pro (CertifyPress)
+# 🏆 CertifyPress
 
 > **The ultimate enterprise-grade digital document, credential management, secure verification, and automated licensing system for WordPress.**
 
@@ -41,17 +41,17 @@
 
 ## 🌟 Introduction
 
-**LM Certificate Publisher Pro** is a world-class, extremely versatile digital credentialing and secure verification platform. It is engineered from the ground up to issue, design, manage, and verify digital certificates, legal documents, security licenses, and professional compliance records at any scale.
+**CertifyPress** is a world-class, extremely versatile digital credentialing and secure verification platform. It is engineered from the ground up to issue, design, manage, and verify digital certificates, legal documents, security licenses, and professional compliance records at any scale.
 
 This is a **highly adaptable, industrial-strength system** built to power the verification needs of high-profile private corporations, legal institutes, security firms, online education academies, and official agencies worldwide.
 
-With LM Certificate Publisher Pro, you can eliminate forgery, automate credential distribution, and provide instant, beautiful verification portals. Everything is managed directly in your WordPress dashboard, giving you total ownership of your valuable data.
+With CertifyPress, you can eliminate forgery, automate credential distribution, and provide instant, beautiful verification portals. Everything is managed directly in your WordPress dashboard, giving you total ownership of your valuable data.
 
 ---
 
 ## ⚡ Unlimited Use Cases: Where is it used?
 
-The absolute power of this plugin lies in its limitless flexibility. Because you can design any document template and bind any custom fields, LM Certificate Publisher Pro is the go-to solution across multiple industries:
+The absolute power of this plugin lies in its limitless flexibility. Because you can design any document template and bind any custom fields, CertifyPress is the go-to solution across multiple industries:
 
 *   **🏢 Private Enterprises & Corporations:** Automate corporate training certificates, internal compliance documents, security clearances, partner program authentications, and ISO auditing achievements.
 *   **🏛️ Official Organizations & Agencies:** Issue verifiable permits, civic awards, licensing documents, business registrations, and security clearance passes that officers can scan and verify in real-time.
@@ -71,7 +71,7 @@ The plugin includes a powerful **Secure Random Key Generator** custom field type
 *   **Use Cases:** Perfect for software licenses, physical security badges, tamper-proof credentials, and high-value legal documents. Users can verify their status simply by pasting this unique key into your search forms.
 
 ### 🔌 Easy REST API Setup
-We believe that enterprise data should be highly accessible yet incredibly secure. LM Certificate Publisher Pro comes equipped with a built-in, easy-to-use **REST API**.
+We believe that enterprise data should be highly accessible yet incredibly secure. CertifyPress comes equipped with a built-in, easy-to-use **REST API**.
 *   **Third-Party Verification:** Easily verify document status, serial keys, validity, and custom fields from external websites, mobile apps, or third-party systems safely.
 
 ---
@@ -80,7 +80,7 @@ We believe that enterprise data should be highly accessible yet incredibly secur
 
 ### **Turn Your WordPress Site into a Digital Document Shop!**
 
-While **LM Certificate Publisher Pro** is a fully complete, feature-rich standalone plugin on its own, we offer the companion **LM WooCommerce Extension** as a separate, premium paid add-on for users looking to monetize their digital documents.
+While **CertifyPress** is a fully complete, feature-rich standalone plugin on its own, we offer the companion **LM WooCommerce Extension** as a separate, premium paid add-on for users looking to monetize their digital documents.
 
 With this optional extension, you can sell:
 1.  **Paid Digital Certifications:** Customers can choose a custom-priced tier (e.g., Bronze, Silver, Gold plan) with its own logo, validity period, and custom fields.
@@ -108,7 +108,7 @@ With this optional extension, you can sell:
 | **Expiry & Validity Monitor** | Set expiration limits with custom warning banners and status rules |
 | **Serial Key Automator** | Auto-generate unique serial keys and document IDs with custom prefixes |
 | **Bulk CSV Importer** | Instantly upload and publish hundreds of records via a simple CSV spreadsheet |
-| **Whitelabel Branding** | Completely hide LM Certificates branding, upload a custom dashboard logo, customize menus, and replace developer credits |
+| **Whitelabel Branding** | Completely hide CertifyPress branding, upload a custom dashboard logo, customize menus, and replace developer credits |
 | **Copy & Content Protection** | Prevent certificate theft by disabling text selection and blocking right-click (context menu) actions on frontend certificate pages |
 | **Native Vector Graphics** | 100% clean Lucide-style inline SVGs across the admin interface. No slow external font icon libraries or CSS bloat |
 
@@ -132,24 +132,24 @@ With this optional extension, you can sell:
 3. Navigate to **Plugins → Add New** and click **Upload Plugin** at the top.
 4. Select the ZIP file and click **Install Now**.
 5. Once uploaded, click **Activate Plugin**.
-6. The gold-accented **🏆 LM Certificates** menu will immediately appear in your sidebar!
+6. The gold-accented **🏆 CertifyPress** menu will immediately appear in your sidebar!
 
 ### Method 2: FTP Installation
 1. Extract the plugin ZIP file on your computer.
 2. Upload the `/lm-certificate-publisher-pro/` folder to your server's `/wp-content/plugins/` directory.
-3. Go to **Plugins** in WordPress and activate **LM Certificate Publisher Pro**.
+3. Go to **Plugins** in WordPress and activate **CertifyPress**.
 
 ---
 
 ## ⚡ Quick Start Guide
 
 ### Step 1: Claim Your License Key
-1. Go to **LM Certificates → License** in your dashboard.
+1. Go to **CertifyPress → License** in your dashboard.
 2. Enter your commercial license key (or secure 60-day trial key).
 3. Click **Activate License** to unlock premium features and live updates.
 
 ### Step 2: Create Custom Fields
-1. Navigate to **LM Certificates → Custom Fields**.
+1. Navigate to **CertifyPress → Custom Fields**.
 2. Add any parameters your documents require (e.g., `officer_id`, `audit_score`, `expiry_date`).
 3. These fields instantly display on your document editing page.
 
@@ -165,7 +165,7 @@ With this optional extension, you can sell:
 4. Watch the beautiful, step-by-step multi-step checkout wizard activate automatically on your shop page!
 
 ### Step 5: Publish & Verify
-1. Go to **LM Certificates → Add New Certificate**.
+1. Go to **CertifyPress → Add New Certificate**.
 2. Input the recipient's details, select your design template, and click **Publish**.
 3. Place the shortcode `[lmc_certificate_search]` on any page to launch your instant public verification portal!
 
@@ -306,7 +306,7 @@ Our dedicated support experts are here to help you deploy, customize, and scale 
 
 ## 📄 License
 
-**LM Certificate Publisher Pro** is licensed under a **Commercial Proprietary License**.
+**CertifyPress** is licensed under a **Commercial Proprietary License**.
 
 Copyright © 2026 LM Designers. All Rights Reserved.
 
